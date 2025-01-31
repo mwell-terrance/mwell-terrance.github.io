@@ -2,7 +2,4 @@
 
 # About me
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer convallis feugiat dui in efficitur. Phasellus at arcu vitae enim hendrerit efficitur. Aliquam id pharetra justo. Etiam fringilla nibh sed tortor bibendum aliquam. Duis sed tortor quis odio pulvinar pulvinar. Nam elementum diam et dolor dictum placerat. Fusce varius, neque eu auctor dictum, nibh quam dignissim sem, cursus efficitur felis ipsum sit amet felis. Proin congue viverra magna id suscipit. Suspendisse eu molestie tellus, a egestas enim. Integer luctus odio eu magna bibendum, quis commodo nunc malesuada. Vestibulum pulvinar, purus sollicitudin imperdiet commodo, libero nisl pulvinar dui, eu rhoncus purus libero in est. Quisque commodo maximus nulla, sit amet venenatis justo scelerisque sit amet. Donec imperdiet lacinia justo sed dapibus. Curabitur ac lobortis nisi.
-
-
-
+I'm Terrance Maxwell, a software engineer passionate about creating practical and fun software. My goals include progressing the journey of continuous learning and giving back to the software community by sharing my experiences to help others learn. I specialize in Python, VBA, and SQL. I'm always eager to connect with other developers. Let's connect on [BlueSky](https://bsky.app/profile/mwell-terrance.bsky.social), [Github](https://github.com/mwell-terrance), or by [email](MAILTO:mwell-terrance@gmail.com)!
